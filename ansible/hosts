@@ -1,0 +1,2 @@
+[test]
+myserver ansible_host=10.44.252.193 ansible_user=ubuntu
