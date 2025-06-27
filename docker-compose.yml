@@ -1,0 +1,10 @@
+
+version: '3'
+
+services:
+   hello:
+     image: kava01/hello:1.0
+     ports: 
+       - "80:80"
+     restart: always
+
